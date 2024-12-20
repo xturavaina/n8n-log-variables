@@ -1,5 +1,7 @@
 ![Banner image](https://user-images.githubusercontent.com/10284570/173569848-c624317f-42b1-45a6-ab09-f0ea3c247648.png)
 
+# This is a fork of n8n-starter, focusing on understanding the mechanisms of n8n and study options on deevloping a log a global variables solution. this is not a ready solution nor something that remotely achivable, rather than educational and recreationsl activity
+
 # n8n-nodes-starter
 
 This repo contains example nodes to help you get started building your own custom integrations for [n8n](n8n.io). It includes the node linter and other dependencies.
